@@ -1,6 +1,5 @@
-Flask
+streamlit
 tensorflow
+joblib
 pandas
 numpy
-joblib
-gunicorn
